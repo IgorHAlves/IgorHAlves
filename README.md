@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Gamer<br>📚 Atualmente estudando e trabalhando com C#<br>🎯 Aprender e compartilhar conhecimento de uma forma mais leve</p>
+<p align="left">📚 Atualmente estudando e trabalhando com C#<br>🎯 Aprender e compartilhar conhecimento de uma forma mais leve</p>
 
 ###
 
