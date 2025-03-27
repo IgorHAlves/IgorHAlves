@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Formado em Engenharia Civil e entrando no mundo do Desenvolvimento de Software, Cursando Análise e Desenvolvimento de Sistemas em busca de novos desafios na área de tecnologia, estagiando e realizando projetos para estudo.</p>
+<p align="left">Formado em Engenharia Civil e entrando no mundo do Desenvolvimento de Software, Cursando Análise e Desenvolvimento de Sistemas em busca de novos desafios na área de tecnologia, trabalhando como desenvolvedor e realizando projetos para estudo.</p>
 
 ###
 
